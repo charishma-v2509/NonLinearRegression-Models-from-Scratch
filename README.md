@@ -10,6 +10,10 @@ This project implements several core regression models using pure Python without
   <li><strong>Saturation Growth Model:</strong> Represents growth that increases rapidly at first and then plateaus.</li>
   <li><strong>Exponential Model:</strong> Models rapid growth or decay, such as in population or radioactive decay.</li>
 </ul>
+
+<h2>Resources</h2>
+<p>The <code>/resources</code> directory contains helpful files to better understand and use the regression models</p>
+
 <h2>How to Run</h2>
 <ol>
   <li>Clone the repository:

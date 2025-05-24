@@ -1,6 +1,6 @@
 # NonLinearRegression-Models-from-Scratch
 <p>
-This project implements several core regression models using pure Python without any external libraries such as NumPy, Pandas, or scikit-learn. These models are essential in understanding the mathematical foundations of machine learning and statistics.
+This project implements several core regression models using pure Python without any external libraries such as scikit-learn. These models are essential in understanding the mathematical foundations of machine learning and statistics.
 </p>
 
 <h2>Implemented Models</h2>
@@ -8,6 +8,7 @@ This project implements several core regression models using pure Python without
   <li><strong>Polynomial Regression:</strong> Fits a polynomial curve to the data for more complex relationships.</li>
   <li><strong>Power Model:</strong> Models relationships where the dependent variable varies as a power of the independent variable.</li>
   <li><strong>Saturation Growth Model:</strong> Represents growth that increases rapidly at first and then plateaus.</li>
+  <li><strong>Exponential Model:</strong> Models rapid growth or decay, such as in population or radioactive decay.</li>
 </ul>
 <h2>How to Run</h2>
 <ol>

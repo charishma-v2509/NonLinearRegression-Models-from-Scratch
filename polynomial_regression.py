@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 
+print("Polynomial regression without using libraries")
 def poly(x, y, degree):
     def matrix(x, degree):
         return np.vander(x, degree + 1, increasing=True)
@@ -41,7 +42,7 @@ def poly(x, y, degree):
     plt.scatter(x, y, color='blue', label='Original Data', alpha=0.6)
     plt.plot(np.sort(x), predict(coefficients, np.sort(x)), color='red', label='Custom Polynomial Fit', linewidth=2)
     
-    print("Polynomial regression using libraries");
+    print("Polynomial regression using libraries")
 
     poly_features = PolynomialFeatures(degree=degree)
     X_poly = poly_features.fit_transform(x.reshape(-1, 1))

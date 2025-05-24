@@ -1,4 +1,4 @@
-# Regression-Models-from-Scratch
+# NonLinearRegression-Models-from-Scratch
 <p>
 This project implements several core regression models using pure Python without any external libraries such as NumPy, Pandas, or scikit-learn. These models are essential in understanding the mathematical foundations of machine learning and statistics.
 </p>
@@ -12,7 +12,7 @@ This project implements several core regression models using pure Python without
 <h2>How to Run</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/charishma-v2509/Regression-Models-from-sSratch.git</code></pre>
+    <pre><code>git clone https://github.com/charishma-v2509/NonLinearRegression-Models-from-Sratch.git</code></pre>
   </li>
   <li>Navigate to the project folder and run any model script:
     <pre><code>python linear_regression.py</code></pre>

@@ -27,7 +27,7 @@ This project implements several core regression models using pure Python without
 </ul>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License - feel free to use and modify it.</p>
+<p>This project is licensed under the MIT License</p>
 
 <h2>Acknowledgements</h2>
 <p>Inspired by academic regression modeling concepts and a desire to learn by building from the ground up.</p>
